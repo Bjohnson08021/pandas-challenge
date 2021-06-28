@@ -1,0 +1,6 @@
+Here are just a few trend observation based from the data:
+-charter schools have a higher overall passing rate. 
+-The top 5 proforming schools are Charter schools.
+-The data shows that larger schools have lower overall passing rate.
+-The data also shows that spending more money per students does not increase the overall passing rate.
+-From 9Th to 12th grade the overall math and reading averages don't vary much within each school. 
